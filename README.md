@@ -1,6 +1,6 @@
-# Welcome to my First Learning Journal!
+# Welcome to my Learning Journal!
 
-
+My name is Chase Nickels, and I grew up in small town USA! More specifically, I am from northwoods Wisconsin where Lake Superior is my home. I grew up playing saxophone, and, in my years as a musician, have learned to play guitar, bass, and piano, though my piano skillset is very limited. I also love to read and spend as much time as I can with my German Shepherd, Apollo. For any present or future projects of mine you can find my Github portfolio .[here].(https://github.com/cnickels21).
 
 ## Welcome to GitHub Pages
 
