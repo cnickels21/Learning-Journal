@@ -22,6 +22,8 @@ It can be easy to find yourself in a fixed mindset though.  One day you are the 
 2. Remember that you are only human, and that through our mistakes we can learn the lessons of the world.
 3. Find something to smile about.  No matter how small or menial, there is always beauty in this world, and sometimes that is enough.
 
+Never forget that we are here to expand and grow, just as the universe does all around us.  It is important to keep your mind and heart clear of any negativity that will drag you down, and, when faced with any challenges or hard times, never be afraid to reach out for help.  There are more extended hands in the world than any of us quite realize, and by helping each other grow, we help ourselves grow.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cnickels21/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
