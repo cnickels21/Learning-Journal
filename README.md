@@ -6,6 +6,16 @@ My name is Chase Nickels, and I grew up in small town USA! More specifically, I 
 
 Here I will be discussing the differences between a growth mindset and a fixed mindset, as well as how you can use the growth mindset to better yourself and your life on every level. Simply stated, the growth mindset is a perception of life that you can use to become the best version of yourself!
 
+More extensively, the difference between the growth mindset and the fixed mindset is how you respond to different aspects of your life, including;
+
+- Challenges
+- Obstacles
+- Effort
+- Criticism
+- Success of Others
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cnickels21/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
