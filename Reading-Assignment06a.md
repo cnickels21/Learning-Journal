@@ -4,12 +4,12 @@
 JavaScript is a scripting language that works within the browser itself in order to create interactivity between your web page and said browser. This language uses variables to define data by assigning values to said variables and then calling upon that data to create different functions within your web page. Firstly, you should understand the different data types. These are as follows:
 
 - Numbers
-- Strings
-- Boolean
-- Null
-- Undefined
-- Symbol
-- NaN
+- Strings \(text\)
+- Boolean \(true or false\)
+- Null \(not real\)
+- Undefined \(no value\)
+- Symbol \(value\)
+- NaN \(not a number\)
 
 These different data types can be combined in many different ways to create many different out comes; for example, you could type out 'true == false' in your code editor and come up with the value of true. This can be very confusing at first, but as you familiarize yourself more with this language you will understand how this all ties into creating the desired outcome for your web page.
 
