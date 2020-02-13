@@ -9,3 +9,6 @@ My name is Chase Nickels, and I grew up in small town USA! More specifically, I 
 3. [The Coder's Computer](https://github.com/cnickels21/Learning-Journal/blob/master/Reading-Assignment02.md)
 4. [Revisions and the Cloud](https://github.com/cnickels21/Learning-Journal/blob/master/Reading-Assignment03.md)
 5. [Structure Web Pages with HTML](https://github.com/cnickels21/Learning-Journal/blob/master/Reading-Assignment04.md)
+6. [Design Web Pages with CSS]()
+7. [Dynamic Web Pages with JavaScript]()
+8. [Computer Architecture and Logic]()
